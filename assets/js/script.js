@@ -92,10 +92,11 @@ $(function() {
             }
         }
         };
+                var key = ${{ secrets.KEY }}
         
         req.open("POST", "https://api.jsonbin.io/v3/b", true);
         req.setRequestHeader("Content-Type", "application/json");
-        req.setRequestHeader("X-Master-Key", "");
+        req.setRequestHeader("X-Master-Key", key.toString());
         req.setRequestHeader("X-Bin-Name", name.val());
         req.send(
             '{"cipher":"' +pt.toString()+ '"}'
