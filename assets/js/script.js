@@ -92,7 +92,7 @@ $(function() {
             }
         }
         };
-                var key = ${{ secrets.KEY }}
+                var key = process.env.key;
         
         req.open("POST", "https://api.jsonbin.io/v3/b", true);
         req.setRequestHeader("Content-Type", "application/json");
