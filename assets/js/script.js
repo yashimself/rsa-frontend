@@ -92,11 +92,10 @@ $(function() {
             }
         }
         };
-                var key = process.env.key;
         
         req.open("POST", "https://api.jsonbin.io/v3/b", true);
         req.setRequestHeader("Content-Type", "application/json");
-        req.setRequestHeader("X-Master-Key", key.toString());
+        req.setRequestHeader("X-Master-Key", "$2b$10$mo.oPUowtcSTd5tIo50d5u9xjNEP4ouyzgdYVb9as05Tyunpgj8Si");
         req.setRequestHeader("X-Bin-Name", name.val());
         req.send(
             '{"cipher":"' +pt.toString()+ '"}'
