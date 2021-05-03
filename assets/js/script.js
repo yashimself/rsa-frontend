@@ -88,7 +88,7 @@ $(function() {
             if(req.status == 200){
                 document.getElementById("loading").style.display = "none";
                 alert("You have successfully completed your transaction using RSA. Your data is stored in an encrypted format.");
-                location.replace('views/end.php');
+                location.replace('/views/end.php');
             }
         }
         };

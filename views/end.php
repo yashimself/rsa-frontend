@@ -25,7 +25,7 @@
     <footer>
         <div class="social"><a href="emailto:yashshirbhate@pm.me"><ion-icon name="mail-sharp"></ion-icon></a><a href="https://www.linkedin.com/in/yashshirbhate/"><ion-icon name="logo-linkedin"></ion-icon></a><a href="https://github.com/yashimself"><ion-icon name="logo-github"></ion-icon></i></a></div>
         <ul class="list-inline">
-            <li class="list-inline-item"><a href="../index.php">Home</a></li>
+            <li class="list-inline-item"><a href="/index.php">Home</a></li>
             <li class="list-inline-item"><a href="team.php">Team</a></li>
             <li class="list-inline-item"><a href="https://github.com/yashimself/RSA">Code</a></li>
         </ul>
@@ -37,7 +37,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="assets/js/jquery.payform.min.js" charset="utf-8"></script>  
-    <script src="assets/js/script.js"></script>
+    <script src="/assets/js/jquery.payform.min.js" charset="utf-8"></script>  
+    <script src="/assets/js/script.js"></script>
 </body>
 </html>
