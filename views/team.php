@@ -38,7 +38,7 @@
                 <div class="column">
                     <div class="team-6">
                         <div class="team-img">
-                            <img src="/assets/images/picture.png" alt="Team Image">
+                            <img src="/assets/images/picture.jpg" alt="Yash">
                         </div>
                         <div class="team-content">
                             <h2>Yash Shirbhate</h2><br>
