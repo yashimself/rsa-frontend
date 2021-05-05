@@ -11,6 +11,10 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/demo.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link href="/assets/js/three-dots-master/dist/three-dots.css" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/icons/site.webmanifest">
     
 </head>
 
@@ -114,7 +118,7 @@
     </div>
     <div class="footer-basic">
         <footer>
-            <div class="social"><a href="emailto:yashshirbhate@pm.me"><ion-icon name="mail-sharp"></ion-icon></a><a href="https://www.linkedin.com/in/yashshirbhate/"><ion-icon name="logo-linkedin"></ion-icon></a><a href="https://github.com/yashimself"><ion-icon name="logo-github"></ion-icon></i></a></div>
+            <div class="social"><a href="mailto: yashshirbhate@pm.me"><ion-icon name="mail-sharp"></ion-icon></a><a href="https://www.linkedin.com/in/yashshirbhate/"><ion-icon name="logo-linkedin"></ion-icon></a><a href="https://github.com/yashimself"><ion-icon name="logo-github"></ion-icon></i></a></div>
             <ul class="list-inline">
                 <li class="list-inline-item"><a href="#top">Home</a></li>
                 <li class="list-inline-item"><a href="/views/team.php">Team</a></li>
