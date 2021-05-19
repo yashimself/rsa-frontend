@@ -53,7 +53,7 @@
                 <div class="column">
                     <div class="team-6">
                         <div class="team-img">
-                            <img src="" alt="Team Image">
+                            <img src="/assets/images/pic4.jpg" alt="Aditya">
                         </div>
                         <div class="team-content">
                             <h2>Aditya Waghmare</h2><br>
@@ -68,7 +68,7 @@
                 <div class="column">
                     <div class="team-6">
                         <div class="team-img">
-                            <img src="" alt="Team Image">
+                            <img src="/assets/images/pic2.jpg" alt="Tirth">
                         </div>
                         <div class="team-content">
                             <h2>Tirth Bhatt</h2><br>
@@ -83,7 +83,7 @@
                 <div class="column">
                     <div class="team-6">
                         <div class="team-img">
-                            <img src="" alt="Team Image">
+                            <img src="/assets/images/pic5.jpg" alt="Renuka">
                         </div>
                         <div class="team-content">
                             <h2>Renuka Mane</h2><br>
@@ -99,7 +99,7 @@
                         <div class="team-6">
                             <br><br>
                             <div class="team-img">
-                                <img src="" alt="Team Image">
+                                <img src="/assets/images/pic3.jpg" alt="Kshitij">
                             </div>
                             <div class="team-content">
                                 <h2>Kshitij Waghela</h2><br>
